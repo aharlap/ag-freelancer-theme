@@ -17,16 +17,12 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>City:
+                                    <strong>{{ post.city }}
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Category:
+                                    <strong>{{ post.category }}
                                     </strong>
                                 </li>
                             </ul>
@@ -35,6 +31,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+        <a href="#" class="btn btn-lg btn-outline">
+        <i class="fa fa-shopping-cart"></i>Purchase on Etsy
+        </a>
         </div>
     </div>
 {% endfor %}
