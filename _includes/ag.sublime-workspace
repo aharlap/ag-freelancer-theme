@@ -24,26 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/aharlap/GitHub/freelancer-theme-ag/mail/contact_me.php",
-			"settings":
-			{
-				"buffer_size": 1191,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "head.html",
 			"settings":
 			{
-				"buffer_size": 1373,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/aharlap/GitHub/activeGrids/_config.yml",
-			"settings":
-			{
-				"buffer_size": 1199,
+				"buffer_size": 1276,
 				"line_ending": "Unix"
 			}
 		}
@@ -76,18 +60,29 @@
 	},
 	"file_history":
 	[
-		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/header.html",
-		"/Users/aharlap/GitHub/freelancer-theme-ag/index.html",
-		"/Users/aharlap/GitHub/freelancer-theme-ag/README.md",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/contact.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_site/js/contact_me_static.js",
 		"/Users/aharlap/GitHub/freelancer-theme-ag/_config.yml",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/README.md",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/modals.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/index.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/css/main.css",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/nav.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/header.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_posts/2014-07-18-project-1.markdown",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/about.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/head.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/css/font-awesome/css/font-awesome.css",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/portfolio_grid.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/mail/contact_me.php",
+		"/Users/aharlap/GitHub/activeGrids/_config.yml",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/.gitignore",
 		"/Users/aharlap/GitHub/freelancer-theme-ag/_posts/2014-07-13-project-6.markdown",
 		"/Users/aharlap/GitHub/activeGrids/404.md",
 		"/Users/aharlap/GitHub/activeGrids/about/index.md",
-		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/about.html",
 		"/Users/aharlap/GitHub/activeGrids/_data/authors.yml",
 		"/Users/aharlap/GitHub/activeGrids/_layouts/page.html",
 		"/Users/aharlap/GitHub/activeGrids/tags/index.md",
-		"/Users/aharlap/GitHub/activeGrids/_config.yml",
 		"/Users/aharlap/GitHub/activeGrids/search/index.md",
 		"/Users/aharlap/GitHub/activeGrids/package.json",
 		"/Users/aharlap/GitHub/activeGrids/index.html",
@@ -180,6 +175,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Contact",
+			"contact me",
+			"star-light",
+			"fa-star",
+			"star-primary",
+			"star",
+			"fa-",
+			"fa0",
+			"fa-",
+			"lato",
+			"btn-outline",
+			"btn-lg",
+			"btn",
+			"font-family",
+			"FONT-FAMILY",
 			"THEME",
 			"activegrids",
 			"Request",
@@ -258,85 +268,28 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/aharlap/GitHub/freelancer-theme-ag/mail/contact_me.php",
-					"settings":
-					{
-						"buffer_size": 1191,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5,
-								5
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "head.html",
 					"settings":
 					{
-						"buffer_size": 1373,
+						"buffer_size": 1276,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								880,
+								880
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/aharlap/GitHub/activeGrids/_config.yml",
-					"settings":
-					{
-						"buffer_size": 1199,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								315,
-								315
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -404,6 +357,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 264.0,
 	"status_bar_visible": true
 }
